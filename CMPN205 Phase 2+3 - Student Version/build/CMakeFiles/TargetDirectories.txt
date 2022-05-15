@@ -1,0 +1,5 @@
+C:/Users/swak/OneDrive/Desktop/New folder/newnew/Pure-Engine-main/CMPN205 Phase 2+3 - Student Version/build/CMakeFiles/GAME_APPLICATION.dir
+C:/Users/swak/OneDrive/Desktop/New folder/newnew/Pure-Engine-main/CMPN205 Phase 2+3 - Student Version/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/swak/OneDrive/Desktop/New folder/newnew/Pure-Engine-main/CMPN205 Phase 2+3 - Student Version/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/swak/OneDrive/Desktop/New folder/newnew/Pure-Engine-main/CMPN205 Phase 2+3 - Student Version/build/vendor/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/swak/OneDrive/Desktop/New folder/newnew/Pure-Engine-main/CMPN205 Phase 2+3 - Student Version/build/vendor/glfw/src/CMakeFiles/glfw.dir

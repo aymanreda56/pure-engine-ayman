@@ -1,0 +1,10 @@
+^C:\USERS\SWAK\ONEDRIVE\DESKTOP\NEW FOLDER\NEWNEW\PURE-ENGINE-MAIN\CMPN205 PHASE 2+3 - STUDENT VERSION\VENDOR\GLFW\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/swak/OneDrive/Desktop/New folder/newnew/Pure-Engine-main/CMPN205 Phase 2+3 - Student Version" "-BC:/Users/swak/OneDrive/Desktop/New folder/newnew/Pure-Engine-main/CMPN205 Phase 2+3 - Student Version/build" --check-stamp-file "C:/Users/swak/OneDrive/Desktop/New folder/newnew/Pure-Engine-main/CMPN205 Phase 2+3 - Student Version/build/vendor/glfw/src/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

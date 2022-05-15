@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\swak\OneDrive\Desktop\New folder\newnew\Pure-Engine-main\CMPN205 Phase 2+3 - Student Version\build\CMakeFiles\be19fc7a43049cd8a333f9f52e8b1df9\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D05B7BE9-0C87-383F-BDC3-01B8D2F79F59}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
